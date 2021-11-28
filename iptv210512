@@ -33,7 +33,7 @@ http://192.168.1.4:8012/rtp/239.3.1.65:8132
 http://192.168.1.4:8012/rtp/239.3.1.153:8136
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16超清hdr[16]
 http://192.168.1.4:8012/rtp/239.3.1.183:8001
-1#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17-高清[17]
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17-高清[17]
 http://192.168.1.4:8012/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",BTV北京卫视高清[21]
 http://192.168.1.4:8012/rtp/239.3.1.241:8000
