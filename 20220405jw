@@ -226,6 +226,8 @@ http://iptv.tvfix.org/hls/tyjd2.m3u8
 http://iptv.tvfix.org/hls/hbo.m3u8
 #EXTINF:-1 group-title="港台频道",HBO(第2声道原声)
 http://iptv.tvfix.org/hls/hbo2.m3u8
+#EXTINF:-1 group-title="港台频道",HBO(第2声道普声)
+http://iptv.tvfix.org/hls/hbo4.m3u8
 #EXTINF:-1 group-title="港台频道",HBO Hits(第1声道粤语)
 http://iptv.tvfix.org/hls/hbohits.m3u8
 #EXTINF:-1 group-title="港台频道",HBO Hits(第2声道原声)
