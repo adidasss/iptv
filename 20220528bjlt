@@ -33,8 +33,18 @@ http://192.168.50.1:8012/rtp/239.3.1.65:8132
 http://192.168.50.1:8012/rtp/239.3.1.153:8136
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16超清hdr[16]
 http://192.168.50.1:8012/rtp/239.3.1.183:8001
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16高清[16]
+# http://192.168.50.1:8012/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17-高清[17]
 http://192.168.50.1:8012/rtp/239.3.1.151:8144
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV18" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV18.png" group-title="央视",CCTV18-高清[19]
+https://v.bjiptv.eu.org/4.php
+#EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+# http://hdtv.haust.edu.cn/hls/hls254.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[高清][非官方]
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+# http://hdtv.haust.edu.cn/hls/hls255.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",BTV北京卫视高清[21]
 http://192.168.50.1:8012/rtp/239.3.1.241:8000
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="北京",BTV新闻高清[29]
