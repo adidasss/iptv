@@ -34,7 +34,7 @@ http://192.168.50.1:8012/rtp/239.3.1.153:8136
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16超清hdr[16]
 http://192.168.50.1:8012/rtp/239.3.1.183:8001
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16高清[16]
-# http://192.168.50.1:8012/rtp/239.3.1.184:8001
+http://192.168.50.1:8012/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17-高清[17]
 http://192.168.50.1:8012/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV18" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV18.png" group-title="央视",CCTV18-高清[19]
