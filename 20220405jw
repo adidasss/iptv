@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE local
-
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",168	南方卫视	igmp//239.3.1.16
 rtsp://61.135.88.136/PLTV/88888892/224/3221226095/10000100000000060000000000705941_0.smil?playbackbegin=20250226160000&playbackend=20250227000000
 #EXTINF:-1 group-title="未分类",551	粤荟萃	igmp//239.3.1.162
